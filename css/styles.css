@@ -11,6 +11,11 @@
     grid-template-rows:400px 300px ; */
 
 }
+.receipe-page h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 10px;
+}
 .main{
     display: grid;
     grid-template-columns: 60% 40%;
